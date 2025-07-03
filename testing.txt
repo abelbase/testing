@@ -1,4 +1,3 @@
 echo "hello world"
 echo " hello there"
 echo "third column"
-echo "last number"
